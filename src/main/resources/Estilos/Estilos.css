@@ -1,0 +1,33 @@
+
+.root{
+    -fx-background-image: url("https://static.vecteezy.com/system/resources/previews/005/217/234/original/gaming-background-blue-and-purple-with-element-vector.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 100% ;
+    -fx-background-position: center;
+}
+
+.menu-bar{
+    -fx-background-color: #BCC8B3;
+    -fx-border-color: #000;
+    -fx-border-width: 2;
+}
+
+.menu:hover{
+    -fx-border-color: #199;
+    -fx-font-weight:bold;
+}
+
+.label:hover{
+    -fx-font-size: 15 pt;
+    -fx-text-fill: white;
+}
+
+.menu-item{
+    -fx-background-color: #BCC8B3;
+    -fx-border-color: #000;
+}
+
+.menu-item:hover{
+    -fx-background-color: #FFF;
+    -fx-font-weight: bold;
+}
